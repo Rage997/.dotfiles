@@ -75,6 +75,8 @@ ZSH_THEME="robbyrussell"
 #git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 plugins=(
 	git
+	copypath
+	copyfile
 	zsh-syntax-highlighting
 	zsh-autosuggestions
 )
